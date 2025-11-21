@@ -1,20 +1,33 @@
-# Three-Stage-CMOS-Amplifier
-Analog amplifier design project using Cadence Virtuoso 90nm technology
+Three-Stage CMOS Amplifier (90nm)
+
+Analog amplifier design project implemented using Cadence Virtuoso in 90nm CMOS technology.
+
+🔧 Tools & Skills
 
 Tools: Cadence Virtuoso
-Skills: Analog Design, AC/DC/Transient Analysis, Stability, Compensation
 
-Objective:
-To design a high-gain, stable three-stage CMOS amplifier in 90nm technology with Miller compensation.
+Skills: Analog Design, AC/DC/Transient Analysis, Stability Analysis, Miller Compensation
 
-What I Did:
-Designed the 3-stage topology
+🎯 Objective
+
+To design a high-gain, stable three-stage CMOS amplifier with Miller compensation, ensuring good stability and transient behavior.
+
+🛠️ What I Did
+
+Designed the three-stage amplifier topology
+
 Added Miller compensation for stability
-Performed DC, AC, and transient analysis
+
+Performed DC, AC, and Transient analysis
+
 Optimized for gain and phase margin
 
-Key Results:
+📈 Key Results
+
 85 dB gain
+
 > 60° phase margin
-Low-frequency stability ensured
-Good settling behavior in transient analysis
+
+Low-frequency stability achieved
+
+Good settling in transient response
